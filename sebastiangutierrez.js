@@ -1,1 +1,1 @@
-console.lon("Hola soy Sebastian Gutierrez");
+console.log("Hola soy Sebastian Gutierrez");
